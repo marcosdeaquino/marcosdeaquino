@@ -13,3 +13,5 @@ Eu sou o Marcos de Aquino, sou um Programador Front End,atualmente estou aprende
 [![Marcos stats](https://github-readme-stats.vercel.app/api?username=Marcosdeaquino)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Marcos](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdeaquino)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Marcos](https://github-profile-trophy.vercel.app/?username=marcosdeaquino)](https://github.com/ryo-ma/github-profile-trophy)
